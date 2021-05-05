@@ -34,7 +34,7 @@ The project was developed using the following technologies.
     git clone https://github.com/TayseRosa/react-native-states.git
 
     //Enter the directory
-    $ cd rnStates
+    $ cd react-native-states
 
     //Install the dependencies the project
     $ yarn install
