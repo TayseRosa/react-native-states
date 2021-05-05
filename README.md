@@ -5,7 +5,7 @@
 - [Technologies used](#-tecnologias-utilizadas)
 - [How to use](#-how-to-use)
 
-## ➡️ About
+## ➡️  About
 <b>Portugues:</b>
 O projeto foi desenvolvido com a intenção de ser uma **base de conhecimento** para consultas de desenvolvedores iniciantes na área de **React Native**, e também para minhas futuras consultas rápidas.
 
@@ -31,7 +31,7 @@ The project was developed using the following technologies.
 ```js
 
     //Clone the repository
-    $ git clone https: github.com/TayseRosa/react-native-states.git
+    git clone https://github.com/TayseRosa/react-native-states.git
 
     //Enter the directory
     $ cd rnStates
