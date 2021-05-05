@@ -1,4 +1,4 @@
-<h1 align="center"> REACT NATIVE (BEGGINER) - PROPS </h1>
+<h1 align="center"> REACT NATIVE (BEGGINER) - STATES </h1>
 
 #Índice
 - [About](#-about)
